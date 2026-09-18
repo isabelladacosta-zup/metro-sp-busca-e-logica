@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+metro_sp_executado.ipynb
+resultado_testes.txt
+jupyter.log
+__pycache__/
+*.pyc
