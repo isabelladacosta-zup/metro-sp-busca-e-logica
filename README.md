@@ -1,5 +1,6 @@
 # 🚇 Metrô de SP — Busca (BFS/DFS) + Lógica Proposicional/Predicados
 👨‍👩‍👧‍👦 Alunos integrantes do grupo:
+
 Isabella Tessarin da Costa - 1756061
 
 Guilherme Pereira de Souza - 1691678
@@ -7,6 +8,8 @@ Guilherme Pereira de Souza - 1691678
 Guilherme Rodrigues Felix - 1324846
 
 Mayara Franciele Santos da Silva - 1873454
+
+Bernardo Affonso Rodrigues - 2025115818
 
 
 Projeto que modela a rede das linhas 1 (Azul), 2 (Verde) e 3 (Vermelha) do
